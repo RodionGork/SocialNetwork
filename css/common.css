@@ -1,0 +1,76 @@
+body {
+    color: #427;
+}
+
+.navbar {
+    background: #aac;
+}
+
+.navbar a {
+    font-size: 150%;
+    font-weight: bold;
+    color: #ffc;
+}
+
+.navbar a:hover {
+    color: #88c;
+}
+
+.errors {
+    background: #f88;
+    color: yellow;
+    padding: 5px;
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+.flash-msg {
+    background: #4AF;
+    color: yellow;
+    padding: 3px;
+    font-weight: bold;
+    margin: 3px 0px;
+    border-radius: 5px;
+}
+
+code {
+    background: #ddd;
+    color: #080;
+    font-weight: bold;
+    padding: 2px;
+    border-radius: 2px;
+}
+
+.avatar {
+    height: 200px;
+}
+.avatar img {
+    height: 100%;
+}
+
+h2 {
+    margin-top: 0px;
+}
+h3 {
+    margin-top: 10px;
+}
+
+.post {
+    border: 1px solid #bbb;
+    border-radius: 15px;
+    padding: 20px;
+    padding-bottom: 10px;
+    margin-bottom:25px;
+}
+
+.post .stats {
+    font-size: 90%;
+    margin-top:10px;
+}
+.post .date {
+    color: #999;
+}
+
+a {
+    color: #0bb;
+}
